@@ -343,8 +343,8 @@ while True:
 r - Registering a user
 a - Adding a task
 va - View all tasks
-vm - View my task
-gr - Generate reports
+vm - View my tasks
+gr - Generate All Reports
 ds - Display statistics
 e - Exit
 : ''').lower()
