@@ -271,7 +271,7 @@ def task_editor():
                             print("Invalid datetime format. Please use the format specified")
                     continue
                 else:
-                    print(f"Looks like you have selected an invalid number. Try again.")
+                    print(f"Looks like you have selected an unused number. Try again selecting a valid number.")
             continue
 
 def task_overview():
@@ -404,6 +404,6 @@ e - Exit
         exit()
 
     else:
-        print("You have made a wrong choice, Please Try again")
+        print("You have made a wrong choice, Please select one of the inout characters")
 
         
